@@ -14,3 +14,4 @@ public class TestRunner {
 
 // if we have more feature file - we just have to add features="src/test/java/features/placeValidations
 // to get reports plugin ="json:target/jsonReports/cucumber-report.json"
+//testing purpose 
