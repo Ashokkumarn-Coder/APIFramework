@@ -19,6 +19,14 @@ public class Hooks {
 		m.user_calls_with_http_request("AddPlaceAPI", "POST");
 		m.verify_place_Id_created_maps_to_using("Shetty", "getPlaceAPI");
 		}
+		//execute this code only when place id is null
+				//write a code that will give you place id
+		
+		//execute this code only when place id is null
+				//write a code that will give you place id
+		//execute this code only when place id is null
+				//write a code that will give you place id
+		
 		
 		
 
